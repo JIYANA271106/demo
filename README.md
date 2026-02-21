@@ -1,4 +1,2 @@
 # demo
-first github project
-Auother Jiyana Gupta
-I am learning githib
+first github project <br> Auother Jiyana Gupta <br> I am learning githib
